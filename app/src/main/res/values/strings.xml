@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alua_4_splash</string>
+    <string name="Splash">Splash screen, let`s begin!</string>
+    <string name="Nome">Nome</string>
+    <string name="Senha">Senha</string>
+    <string name="Bemvindo">Bemvindo</string>
+    <string name="GoToSplash">Go to splash screen</string>
+    <string name="Back">Go back</string>
+    <string name="Forward">Go forward</string>
+    <string name="posts">Posts</string>
+    <string name="comments">Comments</string>
+    <string name="albums">Albums</string>
+    <string name="photos">Photos</string>
+    <string name="todos">Todos</string>
+    <string name="users">Users</string>
+</resources>
